@@ -1,0 +1,24 @@
+# Local archives / duplicated export folder
+*.zip
+Shadowrocket配置与开屏模块/
+
+# Screenshots / captures
+*.png
+*.jpg
+*.jpeg
+*.heic
+*.webp
+
+# Local/private node files
+*node*
+*节点*
+*subscribe*
+*subscription*
+*private*
+*secret*
+*.log
+
+# Codex/local metadata
+.agents/
+.codex/
+.git/
